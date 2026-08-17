@@ -9,27 +9,29 @@ A minimal calculator built with React and Vite, featuring a live equation previe
 - Thousands-grouped number formatting with comma decimals
 - No external dependencies — plain CSS, no Tailwind or icon libraries
 
-## Getting Started
-
-### Installation
-
-```bash
-npm install
-
-npm run dev
-
 ## Screenshots
 
 ### Light Mode
 
-![Calculator Screenshot](screenshots/light_mode.PNG)
+![Calculator Screenshot](screenshots/light_mode.png)
 
 ### Dark Mode
 
-[Calculator Screenshot](screenshots/dark_mode.PNG)
+![Calculator Screenshot](screenshots/dark_mode.png)
 
 ### Demo
 [Calculator Screenshot](screenshots/demo.gif)
+
+
+## Getting Started
+
+### Installation
+
+\`\`\`bash
+npm install
+
+npm run dev
+\`\`\`
 
 ## Licence
 

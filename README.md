@@ -13,11 +13,11 @@ A minimal calculator built with React and Vite, featuring a live equation previe
 
 ### Light Mode
 
-![Calculator Screenshot](screenshots/light_mode.png)
+![Calculator Screenshot](screenshots/light-mode.png)
 
 ### Dark Mode
 
-![Calculator Screenshot](screenshots/dark_mode.png)
+![Calculator Screenshot](screenshots/dark-mode.png)
 
 ### Demo
 [Calculator Screenshot](screenshots/demo.gif)
